@@ -19,7 +19,6 @@ num3 = int(input("Informe o terceiro número "))
 
 def maior_de_tres(num1, num2, num3):
     maior = num1
-
     if num2 > maior:
         maior = num2
 

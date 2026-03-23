@@ -11,7 +11,6 @@ idade = int(input("Informe sua Idade: "))
 # else:
 #     print("Você não é maior de idade!")    
 
-
 #      **Código com DEF**
 def menor_maior_idade(idade):
     if idade >= 18:
